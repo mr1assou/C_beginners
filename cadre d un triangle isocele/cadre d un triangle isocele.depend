@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654873315 source:d:\all.project\all.project\cadre d un triangle isocele\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

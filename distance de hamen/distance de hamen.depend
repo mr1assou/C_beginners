@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659390735 source:d:\all.project\all.project\distance de hamen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

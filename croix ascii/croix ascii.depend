@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661565276 source:d:\all.project\all.project\croix ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+

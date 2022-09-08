@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659814823 source:d:\all.project\all.project\delete charspecifers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

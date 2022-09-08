@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651431870 source:d:\all.project\all.project\table de multiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1651431983 source:d:\all.project\all.project\calculator operateur\main.c
+	<stdio.h>
+	<stdlib.h>
+
